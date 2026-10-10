@@ -40,7 +40,7 @@ Easy!
 
 When filing an issue, make sure to answer these five questions:
 
-1. What version of Go are you using (go version)?
+1. What version of R or Python are you using?
 2. What operating system and processor architecture are you using?
 3. What did you do?
 4. What did you expect to see?
